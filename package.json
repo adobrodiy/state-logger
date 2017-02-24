@@ -1,0 +1,19 @@
+{
+  "name": "utils",
+  "version": "0.0.0",
+  "description": "utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adobrodiy/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adobrodiy/utils/issues"
+  },
+  "homepage": "https://github.com/adobrodiy/utils#readme"
+}
